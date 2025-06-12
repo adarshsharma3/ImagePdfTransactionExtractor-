@@ -29,22 +29,7 @@ A full-stack web application to extract bank transaction data from uploaded PDFs
 
 ---
 
-## 🗂️ Project Structure
 
-PdfExtraction/
-│
-├── Backend/
-│ ├── app.py # Flask app entry point
-│ ├── Logic.py # OCR and regex logic
-│ ├── uploads/ # Uploaded PDF/images
-│ └── requirements.txt # Python dependencies
-│
-└── Frontend/
-└── TransactionExtractor/
-├── src/ # React source files
-├── vite.config.js # Vite configuration
-├── package.json # NPM dependencies
-└── index.html # Root HTML file
 
 
 
