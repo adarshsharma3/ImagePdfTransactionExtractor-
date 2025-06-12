@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Flask environment
+instance/
+.env
+.env.*
+*.sqlite3
+*.db
+*.db-journal
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+
+# React build
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Coverage / test
+htmlcov/
+coverage.xml
+.tox/
+.nox/
+.pytest_cache/
+.cache/
