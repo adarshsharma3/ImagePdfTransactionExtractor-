@@ -40,11 +40,12 @@ PdfExtraction/
 │ └── requirements.txt # Python dependencies
 │
 └── Frontend/
-├── TransactionExtractor/
-│ ├── src/
-│ ├── vite.config.js
-│ ├── package.json
-│ └── index.html
+└── TransactionExtractor/
+├── src/ # React source files
+├── vite.config.js # Vite configuration
+├── package.json # NPM dependencies
+└── index.html # Root HTML file
+
 
 
 ---
