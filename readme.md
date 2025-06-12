@@ -30,11 +30,6 @@ A full-stack web application to extract bank transaction data from uploaded PDFs
 ---
 
 
-
-
-
----
-
 ## ⚙️ Setup Instructions
 
 ### ✅ Backend Setup
